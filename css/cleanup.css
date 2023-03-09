@@ -20,3 +20,16 @@
 .parent > #tag-4 {
   display: none;
 }
+.tag-1 {
+  display: none;
+}
+#wall .tag-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 980px;
+  height: 622px;
+}
+.tag-3 {
+  display: block;
+}
